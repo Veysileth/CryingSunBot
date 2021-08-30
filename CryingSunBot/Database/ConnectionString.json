@@ -1,0 +1,7 @@
+{
+  "server": "localhost",
+  "user": "CryingSunBot",
+  "password": "",
+  "database": "cryingsundb",
+  "ssl": "none"
+}
